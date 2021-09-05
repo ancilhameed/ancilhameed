@@ -17,7 +17,6 @@ I worked with multiple international clients and in multiple distributed but tig
 - 💞️ I’m looking to collaborate on freelance work for java
 
 Skills
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 
 Monitoring
