@@ -10,17 +10,14 @@ I am Ancil, a passionate and creative developer from 🇮🇳  with a strong int
 
 I mostly work on Backend development with Java and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes & Docker. 
 
-Along with my full-time job, I also worked as a Freelancer with multiple international clients including some popular companies like 𝗧𝗼𝗴𝗴𝗹.𝗰𝗼m etc.
+Along with my full-time job, I also keep upskilling myself by learning the emerging technologies.
 
 I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more.
 
 - 💞️ I’m looking to collaborate on freelance work for java
 
 Skills
-       
-
-CSPs
- 
+        
 
 Monitoring
     
@@ -29,10 +26,13 @@ Databases
        
 
 📫 How to reach me?
-⦿ Visit my Website 🌐
-⦿ Connect with me on LinkedIn 👨🏻‍💻
-⦿ Follow me on Twitter 🐦
-⦿ Shoot Me an Email 💌
+
+⦿ Connect with me on LinkedIn 👨🏻‍💻 
+
+⦿ Shoot Me an Email 💌 ancil.hameed@gmail.com
+
+⦿ Reach me on phone +91-9620443289
+
 
 <!---
 ancilhameed/ancilhameed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
