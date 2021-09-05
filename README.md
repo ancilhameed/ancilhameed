@@ -6,7 +6,7 @@
 
 
 Hi there 👋
-I am Ancil, a passionate and creative developer from 🇮🇳  with a strong interest in Java web application using Micro service architectre. 🎯
+I am Ancil, a passionate and creative developer from India with a strong interest in developing Java web application using Microservices architectre. 🎯
 
 I mostly work on Backend development with Java and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes & Docker. 
 
