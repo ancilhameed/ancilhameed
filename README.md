@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ancilhameed
 - 👀 I’m interested in developing project based on java technologies
-- 🌱 I’m currently learning AWS and Docker
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on freelance work for java
 - 📫 How to reach me , email: ancil.hameed@gmail.com or call: +91-9620443289
 
